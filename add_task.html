@@ -1,0 +1,12 @@
+<h1>Add Task</h1>
+<form method="POST">
+    {% csrf_token %}
+    <label>Title:</label><br>
+    <input type="text" name="title" required><br><br>
+
+    <label>Description:</label><br>
+    <textarea name="description" rows="4" cols="50"></textarea><br><br>
+
+    <button type="submit">Add Task</button>
+</form>
+<a href="{% url 'home' %}">Back to Home</a>
