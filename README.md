@@ -1,11 +1,11 @@
-# 📝 Task Management Web Application  
+#  Task Management Web Application  
 
 A simple Task Management Web Application built with **Django**.  
 Users can add, view, mark tasks as completed/pending, and delete tasks.  
 
 ---
 
-## 🚀 Features  
+##  Features  
 - Add new tasks with title & description  
 - Mark tasks as **Completed** (strikethrough style)  
 - Mark tasks back to **Pending**  
@@ -14,7 +14,7 @@ Users can add, view, mark tasks as completed/pending, and delete tasks.
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 - Python  
 - Django  
 - HTML, CSS (basic styling)  
