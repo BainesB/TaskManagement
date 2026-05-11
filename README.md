@@ -1,4 +1,4 @@
-#  Task Management Web Application  
+#  Task Management Web Application (Just hoping to get intouch about a different project.)
 
 A simple Task Management Web Application built with **Django**.  
 Users can add, view, mark tasks as completed/pending, and delete tasks.  
